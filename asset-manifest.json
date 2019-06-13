@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mem-game/static/css/main.bebde47f.chunk.css",
+    "main.js": "/mem-game/static/js/main.df517cb8.chunk.js",
+    "main.js.map": "/mem-game/static/js/main.df517cb8.chunk.js.map",
+    "runtime~main.js": "/mem-game/static/js/runtime~main.ba3ba4bf.js",
+    "runtime~main.js.map": "/mem-game/static/js/runtime~main.ba3ba4bf.js.map",
+    "static/js/2.6efc73d3.chunk.js": "/mem-game/static/js/2.6efc73d3.chunk.js",
+    "static/js/2.6efc73d3.chunk.js.map": "/mem-game/static/js/2.6efc73d3.chunk.js.map",
+    "index.html": "/mem-game/index.html",
+    "precache-manifest.031c5768581e7282d19b9832a938e45d.js": "/mem-game/precache-manifest.031c5768581e7282d19b9832a938e45d.js",
+    "service-worker.js": "/mem-game/service-worker.js",
+    "static/css/main.bebde47f.chunk.css.map": "/mem-game/static/css/main.bebde47f.chunk.css.map"
+  }
+}
