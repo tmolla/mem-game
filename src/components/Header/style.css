@@ -1,0 +1,22 @@
+.jumbotron {
+    color:white;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: linear-gradient(orange, gray);
+    min-height:80%;
+    max-width:900px;
+    flex-wrap: wrap;
+    justify-content: center !important;
+    margin: 10px auto !important;
+  
+}
+
+.score{
+    font-size: x-large;
+}
+.line {
+    border: .5px solid yellow;
+}
+
+  

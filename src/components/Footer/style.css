@@ -1,0 +1,16 @@
+.footer {
+    color:white;
+    text-align: center;
+    vertical-align: middle;
+    background:  linear-gradient(gray, orange);
+    height:75px;
+    justify-content: center;
+    margin: 0px auto;
+    width:900px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.footer > p {
+    padding:25px;
+}
